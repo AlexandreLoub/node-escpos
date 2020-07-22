@@ -17,12 +17,7 @@
   ],
   "author": "Lsong <hi@lsong.org> (https://lsong.org)",
   "contributors": [
-    "Jose Vera <hola@jose.com.co>",
-    "Sébastien Vidal <Psychopoulet@GitHub.com>",
-    "Yu Yongwoo <uyu423@gmail.com>",
-    "Attawit Kittikrairit <atton16@gmail.com>",
-    "Risley Lima <risley@rlimainfo.com.br>",
-    "Michael Kuenzli <michael.kuenzli@camptocamp.com>"
+    "Jose Vera <hola@jose.com.co>"
   ],
   "license": "MIT",
   "bugs": {
@@ -35,11 +30,7 @@
     "iconv-lite": "*",
     "mutable-buffer": "^2.0.3"
   },
-  "optionalDependencies": {
-    "usb": "*",
-    "serialport": "*",
-    "node-bluetooth": "*"
-  },
+  "optionalDependencies": {},
   "devDependencies": {
     "mocha": "*"
   },
